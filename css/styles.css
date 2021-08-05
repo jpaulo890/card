@@ -1,0 +1,29 @@
+/*****************************tag selector*********************************/
+body{
+  position: relative;
+  background-color: hsl(233, 47%, 7%);
+  margin: 0;
+
+
+
+
+
+}
+
+.slogan{
+  width: 720px;
+  height: 300px;
+  background-color: hsl(244, 38%, 16%);
+
+}
+
+.img2{
+
+  position: absolute;
+  left: 820px;
+  top:100px;
+}
+
+.img{
+  width: 720px;
+}
